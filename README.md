@@ -24,15 +24,10 @@ This sample sketch use this hardware.
 
 # Hardware configuration
 Connect the pins as follows:
- RTC          Arduino
- GND    ----  GND
-
-VCC    ----  +5V
-
-SCL    ----  SCL
-
-SDA    ----  SDA
-
-SQW    ----  D2
- 
- 
+|RTC||Arduino|
+|:---:|:---:|:---|
+|GND|----|GND|
+|VCC|----|+5V|
+|SCL|----|SCL|
+|SDA|----|SDA|
+|SQW|----|D2|
