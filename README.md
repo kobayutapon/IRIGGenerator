@@ -26,9 +26,13 @@ This sample sketch use this hardware.
 Connect the pins as follows:
  RTC          Arduino
  GND    ----  GND
- VCC    ----  +5V
- SCL    ----  SCL
- SDA    ----  SDA
- SQW    ----  D2
+
+VCC    ----  +5V
+
+SCL    ----  SCL
+
+SDA    ----  SDA
+
+SQW    ----  D2
  
  
